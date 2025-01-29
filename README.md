@@ -9,7 +9,7 @@ The application handles:
 - Cancellation and modification of bookings
 - Payment handling
 
-### Technical Requirements
+## Technical Requirements
 
 The technical requirements include:
 - Entity Framework for database interactions
